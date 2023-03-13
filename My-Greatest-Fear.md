@@ -1,5 +1,3 @@
-<span style="color:snow">
-
 My Greatest Fear
 ================
 <sup>Would be completing this assignment properly.</sup>
@@ -17,7 +15,7 @@ So, the rubric looks something like this:
 
 ## Rationale:
 * So, why don't I want to do the assignment properly?
-	* **Possible reasons:**
+	* __Possible reasons:__
 		* Laziness
 		* For Humourous effect
 		* It worked for WhyNot180
@@ -34,7 +32,7 @@ What I'm going to do instead:
 ---
 ## How to use this document:
 ___
-* <span style="color:slategrey">Can't see anything? Remove Line 1.</span>
+* <span style="color:red">Can't see anything? Remove Line 1.</span>
 
 ## Useful Info
 - [this style of link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
